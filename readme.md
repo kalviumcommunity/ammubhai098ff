@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project recommends movies based on the user's mood. Whether you're feeling happy, sad, or excited, this app helps set or enhance your mood with the perfect movie. Designed primarily for movie lovers, it suggests films featuring favorite actors and directors, making the experience both fun and engaging.
+This project recommends movies based on the user's mood. Whether you're feeling happy, sad, or excited, this app helps set or enhance your mood with the perfect movie. Designed primarily for movie lovers, making the experience both fun and engaging.
 
 ## Key Features
 
